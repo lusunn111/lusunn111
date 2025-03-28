@@ -12,7 +12,7 @@
 
 ## About Me
 
-**Name:**Zhihao Mao
+**Name:** Zhihao Mao
 
 **Hobbies**:Swimming 🏊‍♂️,Fitness 💪,Chess ♟️,Algorithm Competitions (ACM) 🏆
 
