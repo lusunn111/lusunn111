@@ -41,7 +41,7 @@
 
 ## 📜Research Publications
 
-
+oooops, On the Way.
 
 
 
@@ -50,3 +50,10 @@
 1. **CBCT Tooth Image Segmentation**
 2. **Multimodal Affective Computing(With collaborators)**
 3. **Myeloma fractionation(With collaborators)**
+
+
+
+
+
+<img align="left" alt="youlookwhat's github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=lusunn111&show_icons=true&theme=default&rank_icon=percentile" />
+<img align="left" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusunn111&layout=compact&langs_count=8" />
